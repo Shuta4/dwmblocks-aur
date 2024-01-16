@@ -2,7 +2,7 @@
 
 _pkgname=dwmblocks
 pkgname="s4-$_pkgname"
-pkgver=1.0
+pkgver=1.1
 pkgrel=1
 pkgdesc="A modular statusbar for dwm custom build"
 url="https://github.com/Shuta4/dwmblocks"
